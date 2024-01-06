@@ -8,7 +8,7 @@ public class SaravanarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SaravanarApplication.class, args);
-		jchsduh
+		jchsduhd
 	}
 
 }
